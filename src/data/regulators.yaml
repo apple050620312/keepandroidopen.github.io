@@ -21,16 +21,15 @@ heading:
   zh-CN: "消费者：联系国家监管机构"
   zh-TW: "消費者：聯絡國家監管機構"
   ja: "消費者へ: 国の規制当局に連絡してください"
+
 intro:
   ar: "يشعر المنظمون في جميع أنحاء العالم بقلق بالغ إزاء الاحتكارات وتمركز السلطة في قطاع التكنولوجيا، ويرغبون في الاستماع مباشرةً إلى الأفراد المتضررين والمهتمين. عند التواصل مع المنظمين مباشرةً، ينبغي التحلي _باللباقة و الوضوح_ في شرح الضرر الذي تعتقد أن هذه السياسات ستسببه، سواءً للمستهلكين أو للمنافسة."
   fa: "نهادهای ناظر در سراسر جهان واقعاً نسبت به انحصارها و تمرکز قدرت در بخش فناوری نگران‌اند و مایل‌اند مستقیماً از افرادی که تحت تأثیر قرار گرفته‌اند و دغدغه دارند، بشنوند. هنگام تماس مستقیم با نهادهای ناظر، باید **مودب** باشید و به‌طور **مشخص** توضیح دهید که به باور شما این سیاست‌ها چه آسیب‌هایی—هم به مصرف‌کنندگان و هم به رقابت—وارد خواهند کرد."
   en: "Regulators worldwide are genuinely concerned about monopolies and the centralization of power in the tech sector, and want to hear directly from individuals who are affected and concerned. When contacting regulators directly, you should be _polite_ and _specific_ about the harm you believe these policies will cause, both to consumers and to competition."
   ru: "Регуляторы по всему миру всерьёз обеспокоены монополиями и концентрацией власти в технологическом секторе и хотят напрямую слышать мнение людей, которых это затрагивает и волнует. Обращаясь к регуляторам напрямую, важно быть вежливым и конкретным в описании того вреда, который, по вашему мнению, эти политики могут нанести — как потребителям, так и конкуренции."
-  de: "Regulierungsbehörden auf der ganzen Welt sind ernsthaft besorgt über Monopole und die zunehmende Machtkonzentration im Technologiesektor – und sie möchten die Stimmen der Betroffenen hören.
-
-    Wenn Sie Kontakt aufnehmen, seien Sie höflich und präzise, und beschreiben Sie genau, welchen Schaden diese Politik sowohl Verbrauchern als auch dem Wettbewerb zufügen könnte."
+  de: "Regulierungsbehörden auf der ganzen Welt sind ernsthaft besorgt über Monopole und die zunehmende Machtkonzentration im Technologiesektor – und sie möchten die Stimmen der Betroffenen hören.\nWenn Sie Kontakt aufnehmen, seien Sie höflich und präzise, und beschreiben Sie genau, welchen Schaden diese Politik sowohl Verbrauchern als auch dem Wettbewerb zufügen könnte."
   da: "Myndigheder verden over er reelt bekymrede over monopoler og centraliseringen af magt i techbranchen, og de ønsker at høre direkte fra personer, der er berørt og bekymrede. Når du kontakter myndighederne direkte, bør du være høflig og konkret om den skade, du mener, disse politikker vil forårsage – både for forbrugerne og for konkurrencen."
-  fr: "Les autorités de régulation du monde entier sont sincèrement préoccupées par les monopoles et la centralisation du pouvoir dans le secteur technologique, et souhaitent entendre directement les personnes concernées. Lorsque vous les contactez, soyez courtois et précis quant aux préjudices que ces politiques risquent de causer, tant aux consommateurs qu\"à la concurrence."
+  fr: "Les autorités de régulation du monde entier sont sincèrement préoccupées par les monopoles et la centralisation du pouvoir dans le secteur technologique, et souhaitent entendre directement les personnes concernées. Lorsque vous les contactez, soyez courtois et précis quant aux préjudices que ces politiques risquent de causer, tant aux consommateurs qu'à la concurrence."
   es: "Las autoridades reguladoras de todo el mundo están sinceramente preocupadas por los monopolios y la centralización del poder en el sector tecnológico, y desean escuchar directamente a las personas afectadas. Cuando se pongan en contacto con ellas, sean corteses y precisos en cuanto a los perjuicios que estas políticas pueden causar, tanto a los consumidores como a la competencia."
   it: "Le autorità di regolamentazione di tutto il mondo sono sinceramente preoccupate per i monopoli e la centralizzazione del potere nel settore tecnologico e desiderano ascoltare direttamente le persone interessate. Quando contatti direttamente le autorità di regolamentazione, sii _educato_ e _specifico_ riguardo al danno che ritieni che queste politiche causeranno, sia ai consumatori sia alla concorrenza."
   ko: "전 세계의 규제 당국에서는 기술 독점과 권력의 집중을 진지하게 우려하고 있으며, 영향을 받거나 우려하는 개인들의 의견을 직접 듣고 싶어 합니다. 규제 당국에 직접 연락할 때는 해당 정책이 소비자 및 경쟁에 미칠 것으로 예상되는 피해에 대해 _정중하고 구체적으로_ 설명해야 합니다."
@@ -49,15 +48,15 @@ intro:
 follow_up:
   ar: "تكون الشكاوى ذات تأثير بالغ، خاصةً عندما يُقدّمها مواطن من ذلك البلد أو المنطقة، وعندما تكون لغة البريد الإلكتروني إحدى اللغات الرسمية للهيئة الحاكمة في المنطقة. اطلبوا _إشعارًا كتابياً_ باستلام الشكوى، و يرجى إعادة توجيه أي ردود تتلقونها إلى [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) حتى نتمكن من تسليط الضوء عليها و الإشارة إليها."
   fa: "شکایات زمانی بیشترین اثرگذاری را دارند که از سوی یکی از شهروندان همان کشور یا منطقه تنظیم شده باشند و متن ایمیل نیز به یکی از زبان‌های رسمی نهاد حاکمیتی آن منطقه نوشته شده باشد. درخواست یک **تأییدیهٔ کتبی** برای دریافت شکایت خود مطرح کنید، و در نظر داشته باشید هر پاسخی را که دریافت می‌کنید به نشانی [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) ارسال کنید تا بتوانیم آن‌ها را برجسته کرده و به آن‌ها ارجاع دهیم."
-  en: "Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region\"s governing body. Request a _written acknowledgement_ of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) so that we might highlight and reference them."
+  en: "Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body. Request a _written acknowledgement_ of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) so that we might highlight and reference them."
   ru: "Жалобы особенно действенны, когда их пишет гражданин соответствующей страны или региона, и когда письмо составлено на одном из официальных языков органа управления этого региона. Попросите _письменное подтверждение_ получения жалобы и, по возможности, пересылайте любые полученные ответы на [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org), чтобы мы могли их выделить и ссылаться на них."
   de: "Beschwerden sind besonders wirksam, wenn sie von Bürgern des jeweiligen Landes oder der Region eingereicht werden und in einer der Amtssprachen der zuständigen Behörde verfasst sind.
 
     Bitten Sie um eine **schriftliche Empfangsbestätigung** Ihrer Beschwerde und erwägen Sie, jede erhaltene Antwort an [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) weiterzuleiten, damit wir sie veröffentlichen und dokumentieren können."
   da: "Klager har ofte størst effekt, når de er skrevet af en borger fra det relevante land eller den relevante region, og når e-mailen er skrevet på et af de officielle sprog i den pågældende myndigheds område. Bed om en skriftlig bekræftelse på, at klagen er modtaget, og overvej at videresende eventuelle svar til victory@keepandroidopen.org, så vi kan fremhæve og henvise til dem."
-  fr: "Les plaintes sont particulièrement efficaces lorsqu\"elles émanent d\"un citoyen du pays ou de la région concernée, et lorsque le courriel est rédigé dans l\"une des langues officielles de l\"autorité de régulation. Demandez un _accusé de réception écrit_ de la plainte et envisagez de transmettre toute réponse que vous recevez à [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) afin que nous puissions la mettre en évidence et la référencer."
+  fr: "Les plaintes sont particulièrement efficaces lorsqu'elles émanent d'un citoyen du pays ou de la région concernée, et lorsque le courriel est rédigé dans l'une des langues officielles de l'autorité de régulation. Demandez un _accusé de réception écrit_ de la plainte et envisagez de transmettre toute réponse que vous recevez à [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) afin que nous puissions la mettre en évidence et la référencer."
   es: "Las quejas son especialmente efectivas cuando provienen de un ciudadano del país o la región en cuestión, y cuando el correo electrónico está redactado en uno de los idiomas oficiales de la autoridad reguladora. Solicite un comprobante escrito de la recepción de la queja y considere la posibilidad de enviar cualquier respuesta que reciba a [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) para que podamos mostrarla y referenciarla."
-  it: "I reclami hanno un impatto particolarmente significativo quando sono redatti da un cittadino di un determinato paese o di una determinata regione e quando il testo dell\"e-mail è scritto in una delle lingue ufficiali dell\"ente governativo della regione. Richiedi una _conferma scritta_ del reclamo e valuta la possibilità di inoltrare eventuali risposte ricevute a [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) in modo che possiamo evidenziarle e farvi riferimento."
+  it: "I reclami hanno un impatto particolarmente significativo quando sono redatti da un cittadino di un determinato paese o di una determinata regione e quando il testo dell'e-mail è scritto in una delle lingue ufficiali dell'ente governativo della regione. Richiedi una _conferma scritta_ del reclamo e valuta la possibilità di inoltrare eventuali risposte ricevute a [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) in modo che possiamo evidenziarle e farvi riferimento."
   ko: "민원은 해당 국가의 국민이 직접 작성하고, 관할 기관의 공식 언어를 사용할수록 더욱 강력한 영향력을 발휘합니다. 민원에 대한 <i>서면 답변</i>을 요청하시고, 받으신 답변이 있다면 [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org)로 전달해 주세요. 해당 답변을 강조 표시하고 참조하겠습니다."
   cs: "Stížnosti jsou zvláště efektivní, když pochází od občanů dané země nebo regionu a když jsou psány v nějakém z oficiálních jazyků daného úřadu. Požadujte _písemné potvrzení_ o stížnosti a zvažte přeposlání jakýchkoli odpovědí, které dostanete na [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org), abychom je mohli zdůraznit a odkazovat na ně."
   sk: "Sťažnosti majú osobitný vplyv, ak sú napísané občanom danej krajiny alebo regiónu a ak je e-mail napísaný v jednom z úradných jazykov správneho orgánu daného regiónu. Požiadajte o písemné potvrdenie sťažnosti a zvážte zaslanie všetkých odpovedí, ktoré dostanete, na adresu [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org), aby sme ich mohli zdôrazniť a uviesť ako referenciu."
@@ -152,7 +151,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Alabama Attorney General Consumer Protection](https://www.alabamaag.gov/consumer-complaint/)"
-              fr: "Déposez une plainte auprès de l\"[Alabama Attorney General Consumer Protection](https://www.alabamaag.gov/consumer-complaint/)"
+              fr: "Déposez une plainte auprès de l'[Alabama Attorney General Consumer Protection](https://www.alabamaag.gov/consumer-complaint/)"
               da: "Indsend en klage til [Alabama Attorney General Consumer Protection](https://www.alabamaag.gov/consumer-complaint/)"
               zh-CN: "向[阿拉巴马州 总检察长消费者保护局](https://www.alabamaag.gov/consumer-complaint/)提出投诉"
               zh-TW: "向[阿拉巴馬州 總檢察長消費者保護局](https://www.alabamaag.gov/consumer-complaint/)提出申訴"
@@ -178,7 +177,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Alaska Attorney General Consumer Protection](https://law.alaska.gov/department/civil/consumer/cp_complaint.html)"
-              fr: "Déposez une plainte auprès de l\"[Alaska Attorney General Consumer Protection](https://law.alaska.gov/department/civil/consumer/cp_complaint.html)"
+              fr: "Déposez une plainte auprès de l'[Alaska Attorney General Consumer Protection](https://law.alaska.gov/department/civil/consumer/cp_complaint.html)"
               da: "Indsend en klage til [Alaska Attorney General Consumer Protection](https://law.alaska.gov/department/civil/consumer/cp_complaint.html)"
               zh-CN: "向[阿拉斯加州 总检察长消费者保护局](https://law.alaska.gov/department/civil/consumer/cp_complaint.html)提出投诉"
               zh-TW: "向[阿拉斯加州 總檢察長消費者保護局](https://law.alaska.gov/department/civil/consumer/cp_complaint.html)提出申訴"
@@ -204,7 +203,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Arizona Attorney General Consumer Protection](https://www.azag.gov/complaints/consumer)"
-              fr: "Déposez une plainte auprès de l\"[Arizona Attorney General Consumer Protection](https://www.azag.gov/complaints/consumer)"
+              fr: "Déposez une plainte auprès de l'[Arizona Attorney General Consumer Protection](https://www.azag.gov/complaints/consumer)"
               da: "Indsend en klage til [Arizona Attorney General Consumer Protection](https://www.azag.gov/complaints/consumer)"
               zh-CN: "向[亚利桑那州 总检察长消费者保护局](https://www.azag.gov/complaints/consumer)提出投诉"
               zh-TW: "向[亞利桑那州 總檢察長消費者保護局](https://www.azag.gov/complaints/consumer)提出申訴"
@@ -230,7 +229,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Arkansas Attorney General Consumer Protection](https://arkansasag.gov/file-a-complaint/)"
-              fr: "Déposez une plainte auprès de l\"[Arkansas Attorney General Consumer Protection](https://arkansasag.gov/file-a-complaint/)"
+              fr: "Déposez une plainte auprès de l'[Arkansas Attorney General Consumer Protection](https://arkansasag.gov/file-a-complaint/)"
               da: "Indsend en klage til [Arkansas Attorney General Consumer Protection](https://arkansasag.gov/file-a-complaint/)"
               zh-CN: "向[阿肯色州 总检察长消费者保护局](https://arkansasag.gov/file-a-complaint/)提出投诉"
               zh-TW: "向[阿肯色州 總檢察長消費者保護局](https://arkansasag.gov/file-a-complaint/)提出申訴"
@@ -439,7 +438,7 @@ countries:
           - text:
               en: "File a complaint with the [Idaho Attorney General Consumer Protection](https://www.ag.idaho.gov/consumer-protection/consumer-complaints/)"
               da: "Indsend en klage til [Idaho Attorney General Consumer Protection](https://www.ag.idaho.gov/consumer-protection/consumer-complaints/)"
-              fr: "Déposez une plainte auprès de l\"[Idaho Attorney General Consumer Protection](https://www.ag.idaho.gov/consumer-protection/consumer-complaints/)"
+              fr: "Déposez une plainte auprès de l'[Idaho Attorney General Consumer Protection](https://www.ag.idaho.gov/consumer-protection/consumer-complaints/)"
               zh-CN: "向[爱达荷州 总检察长消费者保护局](https://www.ag.idaho.gov/consumer-protection/consumer-complaints/)提出投诉"
               zh-TW: "向[愛達荷州 總檢察長消費者保護局](https://www.ag.idaho.gov/consumer-protection/consumer-complaints/)提出申訴"
           - text:
@@ -464,7 +463,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Illinois Attorney General Consumer Protection](https://illinoisattorneygeneral.gov/file-a-complaint/consumer/)"
-              fr: "Déposez une plainte auprès de l\"[Illinois Attorney General Consumer Protection](https://illinoisattorneygeneral.gov/file-a-complaint/consumer/)"
+              fr: "Déposez une plainte auprès de l'[Illinois Attorney General Consumer Protection](https://illinoisattorneygeneral.gov/file-a-complaint/consumer/)"
               da: "Indsend en klage til [Illinois Attorney General Consumer Protection](https://illinoisattorneygeneral.gov/file-a-complaint/consumer/)"
               zh-CN: "向[伊利诺伊州 总检察长消费者保护局](https://illinoisattorneygeneral.gov/file-a-complaint/consumer/)提出投诉"
               zh-TW: "向[伊利諾州 總檢察長消費者保護局](https://illinoisattorneygeneral.gov/file-a-complaint/consumer/)提出申訴"
@@ -490,7 +489,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Indiana Attorney General Consumer Protection](https://www.in.gov/attorneygeneral/consumer-protection-division/file-a-complaint/)"
-              fr: "Déposez une plainte auprès de l\"[Indiana Attorney General Consumer Protection](https://www.in.gov/attorneygeneral/consumer-protection-division/file-a-complaint/)"
+              fr: "Déposez une plainte auprès de l'[Indiana Attorney General Consumer Protection](https://www.in.gov/attorneygeneral/consumer-protection-division/file-a-complaint/)"
               da: "Indsend en klage til [Indiana Attorney General Consumer Protection](https://www.in.gov/attorneygeneral/consumer-protection-division/file-a-complaint/)"
               zh-CN: "向[印第安纳州 总检察长消费者保护局](https://www.in.gov/attorneygeneral/consumer-protection-division/file-a-complaint/)提出投诉"
               zh-TW: "向[印第安納州 總檢察長消費者保護局](https://www.in.gov/attorneygeneral/consumer-protection-division/file-a-complaint/)提出申訴"
@@ -516,7 +515,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Iowa Attorney General Consumer Protection](https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint)"
-              fr: "Déposez une plainte auprès de l\"[Iowa Attorney General Consumer Protection](https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint)"
+              fr: "Déposez une plainte auprès de l'[Iowa Attorney General Consumer Protection](https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint)"
               da: "Indsend en klage til [Iowa Attorney General Consumer Protection](https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint)"
               zh-CN: "向[爱荷华州 总检察长消费者保护局](https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint)提出投诉"
               zh-TW: "向[愛荷華州 總檢察長消費者保護局](https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint)提出申訴"
@@ -1036,7 +1035,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Ohio Attorney General Consumer Protection](https://www.ohioattorneygeneral.gov/Individuals-and-Families/Consumers/File-A-Complaint)"
-              fr: "Déposez une plainte auprès de l\"[Ohio Attorney General Consumer Protection](https://www.ohioattorneygeneral.gov/Individuals-and-Families/Consumers/File-A-Complaint)"
+              fr: "Déposez une plainte auprès de l'[Ohio Attorney General Consumer Protection](https://www.ohioattorneygeneral.gov/Individuals-and-Families/Consumers/File-A-Complaint)"
               da: "Indsend en klage til [Ohio Attorney General Consumer Protection](https://www.ohioattorneygeneral.gov/Individuals-and-Families/Consumers/File-A-Complaint)"
               zh-CN: "向[俄亥俄州 总检察长消费者保护局](https://www.ohioattorneygeneral.gov/Individuals-and-Families/Consumers/File-A-Complaint)提出投诉"
               zh-TW: "向[俄亥俄州 總檢察長消費者保護局](https://www.ohioattorneygeneral.gov/Individuals-and-Families/Consumers/File-A-Complaint)提出申訴"
@@ -1062,7 +1061,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Oklahoma Attorney General Consumer Protection](https://oklahoma.gov/oag/complaints-tiplines/complaints.html)"
-              fr: "Déposez une plainte auprès de l\"[Oklahoma Attorney General Consumer Protection](https://oklahoma.gov/oag/complaints-tiplines/complaints.html)"
+              fr: "Déposez une plainte auprès de l'[Oklahoma Attorney General Consumer Protection](https://oklahoma.gov/oag/complaints-tiplines/complaints.html)"
               da: "Indsend en klage til [Oklahoma Attorney General Consumer Protection](https://oklahoma.gov/oag/complaints-tiplines/complaints.html)"
               zh-CN: "向[俄克拉何马州 总检察长消费者保护局](https://oklahoma.gov/oag/complaints-tiplines/complaints.html)提出投诉"
               zh-TW: "向[奧克拉荷馬州 總檢察長消費者保護局](https://oklahoma.gov/oag/complaints-tiplines/complaints.html)提出申訴"
@@ -1088,7 +1087,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Oregon Attorney General Consumer Protection](https://www.doj.state.or.us/consumer-protection/consumer-complaints/)"
-              fr: "Déposez une plainte auprès de l\"[Oregon Attorney General Consumer Protection](https://www.doj.state.or.us/consumer-protection/consumer-complaints/)"
+              fr: "Déposez une plainte auprès de l'[Oregon Attorney General Consumer Protection](https://www.doj.state.or.us/consumer-protection/consumer-complaints/)"
               da: "Indsend en klage til [Oregon Attorney General Consumer Protection](https://www.doj.state.or.us/consumer-protection/consumer-complaints/)"
               zh-CN: "向[俄勒冈州 总检察长消费者保护局](https://www.doj.state.or.us/consumer-protection/consumer-complaints/)提出投诉"
               zh-TW: "向[俄勒岡州 總檢察長消費者保護局](https://www.doj.state.or.us/consumer-protection/consumer-complaints/)提出申訴"
@@ -1270,7 +1269,7 @@ countries:
         items:
           - text:
               en: "File a complaint with the [Utah Division of Consumer Protection](https://dcp.utah.gov/)"
-              fr: "Déposez une plainte auprès de l\"[Utah Division of Consumer Protection](https://dcp.utah.gov/)"
+              fr: "Déposez une plainte auprès de l'[Utah Division of Consumer Protection](https://dcp.utah.gov/)"
               da: "Indsend en klage til [Utah Division of Consumer Protection](https://dcp.utah.gov/)"
               zh-CN: "向[犹他州 消费者保护处](https://dcp.utah.gov/)提出投诉"
               zh-TW: "向[猶他州 消費者保護處](https://dcp.utah.gov/)提出申訴"
@@ -1537,9 +1536,9 @@ countries:
           da: "Klag til [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           ru: "Подайте жалобу в [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           de: "Reichen Sie eine Beschwerde bei der [EU-Wettbewerbspolitik](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en) ein."
-          fr: "Déposez une plainte auprès de la [Politique de concurrence de l\"UE](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
+          fr: "Déposez une plainte auprès de la [Politique de concurrence de l'UE](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           es: "Presente una reclamación ante la [Política de Competencia de la UE](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
-          it: "Invia un reclamo alla [politica di concorrenza dell\"UE](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
+          it: "Invia un reclamo alla [politica di concorrenza dell'UE](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           cs: "Pošlete stížnost [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           sk: "Sťažnosť na [politiku hospodárskej súťaže EÚ](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
           el: "Παραπονεθείτε στην [Πολιτική Ανταγωνισμού της Ε.Ε.](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)"
@@ -1594,7 +1593,7 @@ countries:
               en: "Contact the [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
               da: "Kontakt [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
               ru: "Свяжитесь с [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
-              fr: "Contactez l\"[Office de Protection de la Compétition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+              fr: "Contactez l'[Office de Protection de la Compétition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
               it: "Contatta [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
               cs: "Kontaktujte [Úřad pro ochranu hospodářské soutěže (ÚOHS)](https://www.uohs.gov.cz/cs/)"
               sk: "Kontaktujte [Úrad pre ochranu hospodárskej súťaže (ÚOHS)](https://www.uohs.gov.cz/en/)"
@@ -1602,7 +1601,7 @@ countries:
               th: "ติดต่อ [สำนักงานคุ้มครองการแข่งขันทางเศรษฐกิจ (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
               id: "Hubungi [Badan Pengawas Persaingan Usaha (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
               tr: "[Rekabeti Koruma Ofisi](https://www.uohs.gov.cz/en/) ile irtibata geçin."
-              uk: "Зв\"яжіться з [Управлінням із захисту конкуренції (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+              uk: "Зв'яжіться з [Управлінням із захисту конкуренції (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
               pl: "Skontaktuj się z [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
               zh-CN: "联系[捷克竞争保护局 (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
               zh-TW: "聯絡[捷克競爭保護局 (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
@@ -1640,7 +1639,7 @@ countries:
               en: "Contact the [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
               da: "Kontakt [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
               ru: "Свяжитесь с [Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
-              fr: "Contactez l\"[Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
+              fr: "Contactez l'[Office of Competition and Consumer Protection (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
               el: "Επικοινωνήστε με το [Γραφείο Ανταγωνισμού και Προστασίας του Καταναλωτή (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
               th: "ติดต่อ [สำนักงานปกป้องการแข่งขันและผู้บริโภค (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/)"
               tr: "[Rekabet ve Tüketici Koruma Ofisi (Urząd Ochrony Konkurencji i Konsumentów - UOKiK)](https://uokik.gov.pl/) ile irtibata geçin."
@@ -1880,7 +1879,7 @@ countries:
           th: "ติดต่อ [คณะกรรมการการแข่งขันและผู้บริโภคแห่งสิงคโปร์ (CCCS)](https://www.cccs.gov.sg)"
           id: "Hubungi [Komisi Persaingan dan Konsumen Singapura (CCCS)](https://www.cccs.gov.sg)"
           tr: "[Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg) ile irtibata geçin"
-          uk: "Зв\"яжіться з [Комісією з конкуренції та захисту прав споживачів Сінгапуру (CCCS)](https://www.cccs.gov.sg)"
+          uk: "Зв'яжіться з [Комісією з конкуренції та захисту прав споживачів Сінгапуру (CCCS)](https://www.cccs.gov.sg)"
           pl: "Skontaktuj się z [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg)"
           pt-BR: "Entre em contato com a [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg)"
           zh-CN: "联系[新加坡竞争与消费者委员会 (CCCS)](https://www.cccs.gov.sg)"
@@ -1954,7 +1953,7 @@ countries:
           da: "Kontakt [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
           ru: "Свяжитесь с [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
           de: "Kontaktieren Sie die [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
-          fr: "Contactez l\"[Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
+          fr: "Contactez l'[Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
           es: "Póngase en contacto con la [Oficina de la Comisión de Competencia Comercial (OTCC)](https://www.tcct.or.th/)"
           it: "Contatta [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
           cs: "Kontaktujte [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
@@ -1963,7 +1962,7 @@ countries:
           th: "ติดต่อ [สำนักงานคณะกรรมการการแข่งขันทางการค้า (OTCC)](https://www.tcct.or.th/)"
           id: "Hubungi [Badan Komisi Persaingan Usaha (OTCC)](https://www.tcct.or.th/)"
           tr: "[Ticaret Rekabet Komisyonu Ofisi (OTCC)](https://www.tcct.or.th/) ile irtibata geçin"
-          uk: "Зв\"яжіться з [Управлінням Комісії з торгової конкуренції (OTCC)](https://www.tcct.or.th/)"
+          uk: "Зв'яжіться з [Управлінням Комісії з торгової конкуренції (OTCC)](https://www.tcct.or.th/)"
           pl: "Skontaktuj się z [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
           pt-BR: "Entre em contato com o [Office of Trade Competition Commission (OTCC)](https://www.tcct.or.th/)"
           zh-CN: "联系[贸易竞争委员会办公室 (OTCC)](https://www.tcct.or.th/)"
@@ -2230,7 +2229,7 @@ countries:
           da: "Send en forespørgsel til Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Bed dem om at indgive en officiel klage til Australian Competition & Consumer Comission (ACCC)."
           ru: "Отправьте запрос в Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Попросите их подать официальную жалобу в Australian Competition & Consumer Comission (ACCC)."
           de: "Kontaktieren Sie die australische Verbraucherorganisation ([CHOICE](https://accounts.choice.com.au/contact-us/)) und bitten Sie sie, eine Beschwerde bei der ACCC einzureichen."
-          fr: "Contactez l\"Association australienne des consommateurs ([CHOICE](https://accounts.choice.com.au/contact-us/)). Demandez-leur de déposer une plainte auprès de la Commission australienne de la concurrence et de la consommation (ACCC)."
+          fr: "Contactez l'Association australienne des consommateurs ([CHOICE](https://accounts.choice.com.au/contact-us/)). Demandez-leur de déposer une plainte auprès de la Commission australienne de la concurrence et de la consommation (ACCC)."
           es: "Póngase en contacto con la Asociación Australiana de Consumidores ([CHOICE](https://accounts.choice.com.au/contact-us/)). Pídales que presenten una reclamación ante la Comisión Australiana de Competencia y Consumo (ACCC)."
           it: "Invia una richiesta a Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Chiedigli di presentare un reclamo specifico a Australian Competition & Consumer Comission (ACCC)."
           cs: "Pošlete žádost Australskému sdružení spotřebitelů ([CHOICE](https://accounts.choice.com.au/contact-us/)). Požádejte je, aby podali stížnost Australské komisi pro soutěž a spotřebitele (Australian Competition & Consumer Comission, ACCC)."
@@ -2238,7 +2237,7 @@ countries:
           el: "Στείλτε μία αίτηση στον Όμιλο Αυστραλών Καταναλωτών ([CHOICE](https://accounts.choice.com.au/contact-us/)). Ζητήστε τους να στείλουν μία καταγγελία στην Αυστραλιακή Επιτροπή Ανταγωνισμού και Καταναλωτών (ACCC)."
           th: "ส่งคำขอไปยังสมาคมผู้บริโภคชาวออสเตรเลีย ([CHOICE](https://accounts.choice.com.au/contact-us/)) ขอให้พวกเขาแจ้งคำร้องเรียนที่กำหนดต่อคณะกรรมการการแข่งขันและผู้บริโภคแห่งออสเตรเลีย (ACCC)"
           id: "Kirim permintaan ke Asosiasi Konsumen Australia ([CHOICE](https://accounts.choice.com.au/contact-us/)). Minta mereka untuk mengajukan pengaduan resmi ke Komisi Persaingan dan Konsumen Australia (ACCC)."
-          tr: "Avustralyalı Tüketiciler Derneği\"ne (Australian Consumers’ Association) ([CHOICE](https://accounts.choice.com.au/contact-us/)) talebinizi iletin. Onlardan Avustralya Rekabet ve Tüketici Komisyonu\"na (Australian Competition & Consumer Comission (ACCC)) belirli bir şikayette bulunmalarını isteyin."
+          tr: "Avustralyalı Tüketiciler Derneği'ne (Australian Consumers’ Association) ([CHOICE](https://accounts.choice.com.au/contact-us/)) talebinizi iletin. Onlardan Avustralya Rekabet ve Tüketici Komisyonu'na (Australian Competition & Consumer Comission (ACCC)) belirli bir şikayette bulunmalarını isteyin."
           uk: "Надіслати запит до Австралійської асоціації споживачів ([CHOICE](https://accounts.choice.com.au/contact-us/)). Попросіть їх подати офіційну скаргу до Австралійської комісії з конкуренції та захисту прав споживачів (ACCC)."
           pl: "Wyślij prośbę do australijskiego stowarzyszenia konsumenckiego ([CHOICE](https://accounts.choice.com.au/contact-us/)). Poproś ich o złożenie formalnej skargi do Australian Competition & Consumer Comission (ACCC)."
           pt-BR: "Envie um pedido à Australian Consumers’ Association ([CHOICE](https://accounts.choice.com.au/contact-us/)). Peça para que eles apresentem uma reclamação designada à Australian Competition & Consumer Comission (ACCC)."
@@ -2250,7 +2249,7 @@ countries:
           da: "Kontakt dit lokale parlamentsmedlem eller din delstatssenator. Hvis du ikke ved, hvilken valgkreds du tilhører, kan du finde den [her](https://electorate.aec.gov.au/), og du kan søge efter dine parlamentsmedlemmer eller senatorer [her](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           ru: "Свяжитесь с вашим местным членом парламента или сенатором штата. Если вы не знаете свой избирательный округ, его можно найти [здесь](https://electorate.aec.gov.au/), а ваших парламентариев или сенаторов — [здесь](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           de: "Kontaktieren Sie Ihr örtliches Mitglied des Parlaments oder einen Landessenator. Wenn Sie Ihre Wahlkreis nicht kennen, können Sie ihn [hier](https://electorate.aec.gov.au/) finden und Ihre Parlamentsmitglieder oder Senatoren [hier](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results) suchen."
-          fr: "Contactez votre député local ou sénateur d\"État. Si vous ne connaissez pas votre circonscription, vous pouvez la trouver [ici](https://electorate.aec.gov.au/) et rechercher vos parlementaires ou sénateurs [ici](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
+          fr: "Contactez votre député local ou sénateur d'État. Si vous ne connaissez pas votre circonscription, vous pouvez la trouver [ici](https://electorate.aec.gov.au/) et rechercher vos parlementaires ou sénateurs [ici](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           es: "Contacte a su miembro local del Parlamento o senador estatal. Si no conoce su distrito electoral, puede encontrarlo [aquí](https://electorate.aec.gov.au/) y puede buscar a sus parlamentarios o senadores [aquí](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           it: "Contatta il tuo membro del parlamento o senatore locale. Se non conosci il tuo collegio elettorale, puoi trovarlo [qui](https://electorate.aec.gov.au/) e puoi cercare i tuoi parlamentari o senatori [qui](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           cs: "Kontaktujte svého místního poslance nebo senátora státu. Pokud neznáte svůj volební obvod, můžete jej najít [zde](https://electorate.aec.gov.au/) a své poslance nebo senátory můžete najít [zde](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
@@ -2259,7 +2258,7 @@ countries:
           th: "ติดต่อสมาชิกสภาผู้แทนราษฎรหรือวุฒิสมาชิกของรัฐของคุณ หากคุณไม่ทราบเขตเลือกตั้งของคุณ คุณสามารถหาได้ [ที่นี่](https://electorate.aec.gov.au/) และคุณสามารถค้นหาสมาชิกสภาผู้แทนราษฎรหรือวุฒิสมาชิกของคุณได้ [ที่นี่](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)"
           id: "Hubungi anggota parlemen daerah Anda atau senator negara bagian. Jika Anda tidak mengetahui daerah pemilihan Anda, Anda dapat menemukannya [di sini](https://electorate.aec.gov.au/), dan Anda dapat mencari anggota parlemen atau senator Anda [di sini](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           tr: "Yerel Milletvekili veya Eyalet Senatörü ile iletişime geçin. Seçim bölgenizi bilmiyorsanız, [buradan](https://electorate.aec.gov.au/) bulabilir ve parlamento üyelerinizi veya senatörlerinizi [buradan](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results) arayabilirsiniz."
-          uk: "Зв\"яжіться з вашим місцевим членом парламенту або сенатором штату. Якщо ви не знаєте свій виборчий округ, ви можете знайти його [тут](https://electorate.aec.gov.au/), а знайти своїх парламентарів чи сенаторів можна [тут](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
+          uk: "Зв'яжіться з вашим місцевим членом парламенту або сенатором штату. Якщо ви не знаєте свій виборчий округ, ви можете знайти його [тут](https://electorate.aec.gov.au/), а знайти своїх парламентарів чи сенаторів можна [тут](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           pl: "Skontaktuj się z lokalnym posłem lub senatorem stanowym. Jeśli nie znasz swojego okręgu, znajdziesz go [tutaj](https://electorate.aec.gov.au/), a parlamentarzystów i senatorów możesz wyszukać [tutaj](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           pt-BR: "Entre em contato com seu deputado local ou senador estadual. Se você não souber seu eleitorado, pode encontrá-lo [aqui](https://electorate.aec.gov.au/) e pode buscar seus parlamentares ou senadores [aqui](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)."
           zh-CN: "联系您当地的国会议员或州参议员。如果您不知道您的选区，可以在[这里](https://electorate.aec.gov.au/)找到；您可以在[这里](https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results)搜索您的国会议员或参议员。"
@@ -2329,7 +2328,7 @@ countries:
           th: "ติดต่อ [คณะกรรมการการค้าที่ยุติธรรมของญี่ปุ่น (JFTC)](https://www.jftc.go.jp/)"
           id: "Hubungi [Komisi Perdagangan Adil Jepang (JFTC)](https://www.jftc.go.jp/)"
           tr: "[Japonya Adil Ticaret Komisyonu (JFTC)](https://www.jftc.go.jp/) ile irtibata geçin"
-          uk: "Зв\"яжіться з [Японською комісією з добросовісної торгівлі (JFTC)](https://www.jftc.go.jp/)"
+          uk: "Зв'яжіться з [Японською комісією з добросовісної торгівлі (JFTC)](https://www.jftc.go.jp/)"
           pl: "Skontaktuj się z [Japan Fair Trade Commission (JFTC)](https://www.jftc.go.jp/)"
           pt-BR: "Entre em contato com a [Japan Fair Trade Commission (JFTC)](https://www.jftc.go.jp/)"
           zh-CN: "联系[日本公平交易委员会 (JFTC)](https://www.jftc.go.jp/)"
@@ -2392,7 +2391,7 @@ countries:
           th: "ติดต่อ [คณะกรรมการการค้าที่ยุติธรรมของเกาหลี (KFTC)](https://www.ftc.go.kr/)"
           id: "Hubungi [Komisi Perdagangan Adil Korea (KFTC)](https://www.ftc.go.kr/)"
           tr: "[Korea Fair Trade Commission (KFTC)](https://www.ftc.go.kr/) ile irtibata geçin"
-          uk: "Зв\"яжіться з [Корейською комісією з добросовісної торгівлі (KFTC)](https://www.ftc.go.kr/)"
+          uk: "Зв'яжіться з [Корейською комісією з добросовісної торгівлі (KFTC)](https://www.ftc.go.kr/)"
           pl: "Skontaktuj się z [Korea Fair Trade Commission (KFTC)](https://www.ftc.go.kr/)"
           pt-BR: "Entre em contato com a [Korea Fair Trade Commission (KFTC)](https://www.ftc.go.kr/)"
           zh-CN: "联系[韩国公平交易委员会 (KFTC)](https://www.ftc.go.kr/)"
@@ -2446,7 +2445,7 @@ countries:
           da: "Kontakt [Competition Commission of India (CCI)](https://www.cci.gov.in/)"
           ru: "Свяжитесь с [Competition Commission of India (CCI)](https://www.cci.gov.in/)"
           de: "Kontaktieren Sie die [Wettbewerbskommission Indiens (CCI)](https://www.cci.gov.in/)"
-          fr: "Contactez la [Commission de la concurrence de l\"Inde (CCI)](https://www.cci.gov.in/)"
+          fr: "Contactez la [Commission de la concurrence de l'Inde (CCI)](https://www.cci.gov.in/)"
           es: "Póngase en contacto con la [Comisión de Competencia de la India (CCI)](https://www.cci.gov.in/)"
           it: "Contatta [Competition Commission of India (CCI)](https://www.cci.gov.in/)"
           cs: "Kontaktujte [Competition Commission of India (CCI)](https://www.cci.gov.in/)"
@@ -2455,7 +2454,7 @@ countries:
           th: "ติดต่อ [คณะกรรมการการแข่งขันของอินเดีย (CCI)](https://www.cci.gov.in/)"
           id: "Hubungi [Komisi Persaingan Usaha India (CCI)](https://www.cci.gov.in/)"
           tr: "[Competition Commission of India (CCI)](https://www.cci.gov.in/) ile irtibata geçin"
-          uk: "Зв\"яжіться з [Комісією з конкуренції Індії (CCI)](https://www.cci.gov.in/)"
+          uk: "Зв'яжіться з [Комісією з конкуренції Індії (CCI)](https://www.cci.gov.in/)"
           pl: "Skontaktuj się z [Competition Commission of India (CCI)](https://www.cci.gov.in/)"
           pt-BR: "Entre em contato com a [Competition Commission of India (CCI)](https://www.cci.gov.in/)"
           zh-CN: "联系[印度竞争委员会 (CCI)](https://www.cci.gov.in/)"
@@ -2474,7 +2473,7 @@ countries:
           zh-TW: "使用[此頁面](https://www.agcm.it/segnala-online/index)的表格提交舉報，或傳送有認證的電子郵件至 [protocollo.agcm@pec.agcm.it](protocollo.agcm@pec.agcm.it)"
       - text:
           en: "Contact the [Italian Competition Authority](https://www.agcm.it)"
-          it: "Contatta l\"[Autorità Garante della Concorrenza e del Mercato](https://www.agcm.it)"
+          it: "Contatta l'[Autorità Garante della Concorrenza e del Mercato](https://www.agcm.it)"
           zh-CN: "联系[意大利竞争管理局](https://www.agcm.it)"
           zh-TW: "聯絡[義大利競爭管理局](https://www.agcm.it)"
   - id: canada
@@ -2617,7 +2616,7 @@ countries:
           th: "ติดต่อ [คณะกรรมการการค้าที่ยุติธรรม (FTC)](https://www.ftc.gov.tw/)"
           id: "Hubungi [Komisi Perdagangan Adil (FTC)](https://www.ftc.gov.tw/)"
           tr: "[Fair Trade Commission (FTC)](https://www.ftc.gov.tw/) ile irtibata geçin"
-          uk: "Зв\"яжіться з [Комісією з добросовісної торгівлі (FTC)](https://www.ftc.gov.tw/)"
+          uk: "Зв'яжіться з [Комісією з добросовісної торгівлі (FTC)](https://www.ftc.gov.tw/)"
           pl: "Skontaktuj się z [Fair Trade Commission (FTC)](https://www.ftc.gov.tw/)"
           pt-BR: "Entre em contato com a [Fair Trade Commission (FTC)](https://www.ftc.gov.tw/)"
           zh-CN: "联系[公平交易委员会 (FTC)](https://www.ftc.gov.tw/)"
@@ -2662,7 +2661,7 @@ countries:
           th: "ติดต่อ [Rekabet Kurumu / หน่วยงานการแข่งขันของตุรกี (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
           id: "ContBertindak sebagai [Rekabet Kurumu / Otoritas Persaingan Usaha Turki (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
           tr: "[Rekabet Kurumu / Turkish Competition Authority (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa) ile irtibata geçin"
-          uk: "Зв\"яжіться з [Rekabet Kurumu / Турецьким антимонопольним органом (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
+          uk: "Зв'яжіться з [Rekabet Kurumu / Турецьким антимонопольним органом (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
           pl: "Skontaktuj się z [Rekabet Kurumu / Turkish Competition Authority (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
           pt-BR: "Entre em contato com a [Rekabet Kurumu / Turkish Competition Authority (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
           zh-CN: "联系[Rekabet Kurumu / 土耳其竞争管理局 (RK)](https://edevlet.rekabet.gov.tr/Talep/Anasayfa)"
@@ -2725,7 +2724,7 @@ countries:
           th: "ติดต่อ [Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)"
           id: "Hubungi [Komisi Nasional Perlindungan Persaingan Usaha (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)"
           tr: "[Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia) ile irtibata geçin"
-          uk: "Зв\"яжіться з [Національною комісією із захисту конкуренції (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)"
+          uk: "Зв'яжіться з [Національною комісією із захисту конкуренції (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)"
           pl: "Skontaktuj się z [Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)"
           pt-BR: "Entre em contato com a [Comisión Nacional de Defensa de la Competencia (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)"
           zh-CN: "联系[国家竞争保护委员会 (CNDC)](https://www.argentina.gob.ar/defensadelacompetencia)"
@@ -2788,7 +2787,7 @@ countries:
           th: "ติดต่อ [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)"
           id: "Hubungi [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)"
           tr: "[Comisión Federal de Competencia Económica (COFECE)](https://www.cofece.mx/) ile irtibata geçin"
-          uk: "Зв\"яжіться з [Національною антимонопольною комісією](https://www.antimonopolio.gob.mx/Micrositios/)"
+          uk: "Зв'яжіться з [Національною антимонопольною комісією](https://www.antimonopolio.gob.mx/Micrositios/)"
           pl: "Skontaktuj się z [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)"
           pt-BR: "Entre em contato com a [Comisión Nacional Antimonopolio](https://www.antimonopolio.gob.mx/Micrositios/)"
           zh-CN: "联系[国家反垄断委员会](https://www.antimonopolio.gob.mx/Micrositios/)"
@@ -2833,7 +2832,7 @@ countries:
           th: "ติดต่อ [คณะกรรมการการแข่งขันแห่งฟิลิปปินส์ (PCC)](https://www.phcc.gov.ph/)"
           id: "Hubungi [Komisi Persaingan Usaha Filipina (PCC)](https://www.phcc.gov.ph/)"
           tr: "[Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/) ile irtibata geçin"
-          uk: "Зв\"яжіться з [Філіппінською комісією з конкуренції (PCC)](https://www.phcc.gov.ph/)"
+          uk: "Зв'яжіться з [Філіппінською комісією з конкуренції (PCC)](https://www.phcc.gov.ph/)"
           pl: "Skontaktuj się z [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)"
           pt-BR: "Entre em contato com a [Philippine Competition Commission (PCC)](https://www.phcc.gov.ph/)"
           zh-CN: "联系[菲律宾竞争委员会 (PCC)](https://www.phcc.gov.ph/)"
@@ -2928,7 +2927,7 @@ countries:
           th: "ติดต่อ [สำนักงานคุ้มครองการแข่งขันทางเศรษฐกิจ (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           id: "Hubungi [Badan Pengawas Persaingan Usaha (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           tr: "[Rekabeti Koruma Ofisi (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/) ile irtibata geçin."
-          uk: "Зв\"яжіться з [Управлінням із захисту конкуренції (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
+          uk: "Зв'яжіться з [Управлінням із захисту конкуренції (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           pl: "Skontaktuj się z [Office for the Protection of Competition (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           zh-CN: "联系[捷克竞争保护局 (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
           zh-TW: "聯絡[捷克競爭保護局 (Úřad pro ochranu hospodářské soutěže – ÚOHS)](https://www.uohs.gov.cz/en/)"
@@ -3069,7 +3068,7 @@ countries:
           da: "Online på [12315.cn](https://www.12315.cn/). Platformen er kun tilgængelig på det kinesiske fastland for at forhindre cyberangreb."
           zh-CN: "通过 [12315.cn](https://www.12315.cn/) 访问在线平台。为防止网络攻击，该平台仅限中国大陆地区访问。"
           el: "Διαθέσιμο στο διαδίκτυο στη διεύθυνση [12315.cn](https://www.12315.cn/). Η πλατφόρμα είναι προσβάσιμη μόνο στην ηπειρωτική Κίνα για την αποτροπή κυβερνοεπιθέσεων."
-          tr: "Çevrimiçi olarak [12315.cn](https://www.12315.cn/). Platform sadece Çin Anakarası\"nda siber saldırıları önlemek için erişilebilir."
+          tr: "Çevrimiçi olarak [12315.cn](https://www.12315.cn/). Platform sadece Çin Anakarası'nda siber saldırıları önlemek için erişilebilir."
           zh-TW: "透過 [12315.cn](https://www.12315.cn/) 瀏覽線上平台。為防止網路攻擊，該平台僅限中國大陸地區瀏覽。"
   - id: saudi-arabia
     name:
@@ -3086,7 +3085,7 @@ countries:
           ar: "تواصل مع [الهيئة العامة للمنافسة](https://gac.gov.sa)"
           en: "Contact the [General Authority for Competition](https://gac.gov.sa)"
           da: "Kontakt [General Authority for Competition](https://gac.gov.sa)"
-          fr: "Contactez [l\"Authorité Général Pour le Compétition](https://gac.gov.sa)"
+          fr: "Contactez [l'Authorité Général Pour le Compétition](https://gac.gov.sa)"
           el: "Επικοινωνήστε με τη [Γενική Αρχή Ανταγωνισμού](https://gac.gov.sa)"
           tr: "[Rekabet Genel Otoritesi](https://gac.gov.sa) ile irtibata geçin."
           zh-CN: "联系[竞争总局](https://gac.gov.sa)"
